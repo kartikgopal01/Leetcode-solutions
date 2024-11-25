@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -87,8 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
