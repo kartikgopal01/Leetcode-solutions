@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
