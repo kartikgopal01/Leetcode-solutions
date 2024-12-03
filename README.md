@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -117,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 ## Stack
 |  |
 | ------- |
