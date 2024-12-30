@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -141,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
