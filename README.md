@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
