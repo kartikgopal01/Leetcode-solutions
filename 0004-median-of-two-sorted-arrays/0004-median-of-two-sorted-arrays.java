@@ -4,14 +4,16 @@ class Solution {
         int n2=nums2.length;
         int totaln=n1+n2;
         int[] newnum=new int[totaln];
-        for(int i=0;i<n1;i++){
-            newnum[i]=nums1[i];
-        }
         int k=0;
-        for(int j=n1;j<totaln;j++){
-            newnum[j]=nums2[k];
-            k++;
+        for(int i=0;i<totaln;i++){
+            if(i<n1){
+            newnum[i]=nums1[i];
+            }
+            else{
+                newnum[i]=nums2[k++];
+            }
         }
+      
 
         Arrays.sort(newnum);
         if(totaln%2!=0){
