@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
