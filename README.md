@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
