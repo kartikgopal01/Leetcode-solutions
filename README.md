@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0134-gas-station) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Counting Sort
 |  |
 | ------- |
