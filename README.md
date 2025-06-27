@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
