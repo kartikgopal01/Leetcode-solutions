@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
