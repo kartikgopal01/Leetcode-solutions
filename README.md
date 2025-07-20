@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -275,4 +279,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
