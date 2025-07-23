@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
