@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0012-integer-to-roman) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Queue
 |  |
