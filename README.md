@@ -287,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [1005-univalued-binary-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [1005-univalued-binary-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,10 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0322-coin-change) |
+| [1005-univalued-binary-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [1005-univalued-binary-tree](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
