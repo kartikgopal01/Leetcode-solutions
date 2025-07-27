@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
 |  |
