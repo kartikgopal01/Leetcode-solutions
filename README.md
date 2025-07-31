@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
