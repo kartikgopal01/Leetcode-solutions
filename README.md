@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bit Manipulation
 |  |
