@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2689-rearranging-fruits](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0940-fruit-into-baskets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
