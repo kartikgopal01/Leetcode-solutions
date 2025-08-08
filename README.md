@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0826-soup-servings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0826-soup-servings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
