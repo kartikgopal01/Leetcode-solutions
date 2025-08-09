@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0826-soup-servings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
