@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0274-h-index) |
+| [0900-reordered-power-of-2](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0900-reordered-power-of-2](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2689-rearranging-fruits](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2689-rearranging-fruits) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kartikgopal01/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Merge Sort
 |  |
